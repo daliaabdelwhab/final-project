@@ -1,0 +1,8 @@
+.btn {
+  background-color: #51b871;
+  color: #fff;
+  width: 150px;
+  transform: translateY(-120%);
+  position: absolute;
+  right: 210px;
+}
